@@ -1,0 +1,112 @@
+/* Color pack from colorhunt.co */
+/* #fff8cd - yellow
+#ffe05d - sun yellow
+#ff9642 - orange
+#646464 - dark grey*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar */
+
+Navbar .btn {
+    width: 70px;
+}
+
+/* Impression */
+
+.impression {
+    /* background-color: #fff8cd; */
+}
+
+.intro h1 {
+    color: #646464;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.lead {
+    width: 90%;
+}
+
+.logoarea {
+    margin-top: 20px;
+}
+
+/* About  */
+
+.about {
+    background-color: #fff8cd;
+}
+
+i {
+    font-size: 40px;
+}
+
+.about i {
+    color: red;
+    height: 40px;
+}
+
+.toolIcon {
+    color: red;
+    font-size: 40px!important;
+}
+
+.supportIcon {
+    color: red;
+    font-size: 55px!important;
+}
+
+/* Solutions */
+
+.solutions {
+
+}
+
+.solutions i {
+    color: green;
+}
+
+.solutions button {
+
+}
+
+.serviceIcon {
+    font-size: 45px!important;
+}
+
+/* Contact  */
+
+.contact-input {
+    border: none;
+    display: block;
+    margin-bottom: 6px;
+    border-bottom: 1px solid black;
+    /* border-left: 1px solid black; */
+}
+
+.contact-input:focus {
+    outline: none;
+}
+
+.contact-container {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+/* Footer  */
+
+footer {
+
+}
+
+footer p {
+    font-size: 0.7rem;
+    text-align: center;
+    margin: 0;
+}
